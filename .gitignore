@@ -38,6 +38,10 @@ pip-delete-this-directory.txt
 # Unit test / coverage reports
 htmlcov/
 .tox/
+
+# This is the line that fred adds for security purposes
+*.yaml
+
 .coverage
 .coverage.*
 .cache
