@@ -1,0 +1,6 @@
+mysql_user: your_mysql_user_here
+mysql_database: your_mysql_database_here
+mysql_host: usually_localhost
+mysql_passwd: your_mysql_password_here
+ssh_username: your_ssh_username_here
+ssh_password: your_ssh_password_here
